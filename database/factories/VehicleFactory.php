@@ -10,4 +10,6 @@ $factory->define(App\Vehicle::class, function (Faker $faker) {
     ];
 });
 
+// 50 cars are now generated
+
 
