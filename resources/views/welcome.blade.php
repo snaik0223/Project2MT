@@ -72,7 +72,7 @@
         </div>
         <div class="links">
             <a href="http://localhost:8000/about">About</a>
-            <a href="https://laracasts.com">Contact Form</a>
+            <a href="http://localhost:8000/contact">Contact Form</a>
         </div>
     </div>
 </div>
