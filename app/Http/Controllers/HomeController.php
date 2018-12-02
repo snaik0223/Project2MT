@@ -25,9 +25,21 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        return view('pages.home');
+    }
+    public function about()
+    {
+        return view('pages.about');
     }
 }
+
+
+
+
+
+
+
+
   /** public function about()
     {
       $user = $user =Auth::user();
