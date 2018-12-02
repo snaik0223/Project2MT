@@ -15,7 +15,7 @@ Route::get('/',function (){
     return view('welcome');
 });
 Route::get('about', 'HomeController@about')->name('about');
-
+Route::get('contact', 'HomeController@about')->name('contact');
 
 Auth::routes();
 
